@@ -1,1 +1,7 @@
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rfaccount&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+First year computer science at University of Toronto.
+- done competitive programming for 3 years
+- currently studying cyber security
+- founder of UofTCTF
+- studying computer system and Linux kernel
+- Linux user ( I use Kali btw )
+- Python, CPP, HTML, JavaScript
