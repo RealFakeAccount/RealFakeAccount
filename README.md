@@ -1,4 +1,4 @@
-First year computer science at University of Toronto.
+First year computer science student at University of Toronto.
 - done competitive programming for 3 years
 - currently studying cyber security
 - founder of UofTCTF
