@@ -5,3 +5,5 @@ First year computer science student at University of Toronto.
 - studying computer system and Linux kernel
 - Linux user ( I use Kali btw )
 - Python, CPP, HTML, JavaScript
+
+![](https://www.hackthebox.eu/badge/image/402227)
