@@ -1,4 +1,4 @@
-First year computer science student at University of Toronto.
+Second year computer science student at University of Toronto.
 - former competitive programmer
 - currently studying cyber security
 - founder of UofTCTF
