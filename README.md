@@ -1,4 +1,5 @@
 Second year computer science student at University of Toronto.
+- Wannabe Pentester
 - former competitive programmer
 - currently studying OSCP
 - founder of UofTCTF
