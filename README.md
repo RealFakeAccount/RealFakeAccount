@@ -1,4 +1,4 @@
-Second year computer science student at University of Toronto.
+Third year computer science student at University of Toronto.
 - Wannabe Pentester
 - OSCP 
 - former competitive programmer
@@ -7,6 +7,6 @@ Second year computer science student at University of Toronto.
 - Linux user ( I use Manjaro btw )
 - Python, Bash, CPP, HTML, JavaScript
 
-<img src="https://templates.images.credential.net/1644595125124808271808325719972.png" width="200" height="200" />
+<img src="https://templates.images.credential.net/1644595125124808271808325719972.png" width="25%" height="25%" />
 
 ![](https://www.hackthebox.eu/badge/image/402227)
