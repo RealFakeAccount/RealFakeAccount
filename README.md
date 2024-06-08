@@ -14,4 +14,4 @@ Fourth year computer science student at University of Toronto.
 
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -1000; position: fixed; top: 0; left: 0; height: 100vh; object-fit: contain; background-size: contain; width: 100vw; opacity: 0.5; background: url('https://github.com/RealFakeAccount/RealFakeAccount/assets/63186767/2942fec6-d38a-4485-9ce9-c97429adb7e3');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -1000; position: fixed; top: 0; left: 0; height: 100vh; object-fit: contain; background-size: contain; width: 100vw; opacity: 0.5; background: url('https://github.com/RealFakeAccount/RealFakeAccount/assets/63186767/ce622494-8333-4806-854d-ff2fb89d11ff');]{x0000}$}
