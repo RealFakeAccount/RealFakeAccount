@@ -1,10 +1,9 @@
-Fourth year computer science student at University of Toronto.
 - Wannabe Pentester
 - Working as container security engineer
 - OSCP 
 - former competitive programmer
 - founder of UofTCTF
-- studying computer system and Linux kernel
+- studying Cloud Security 
 - Linux user ( I use Arch btw )
 - Python, Bash, CPP, HTML, JavaScript
 
