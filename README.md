@@ -1,5 +1,5 @@
 - Wannabe Pentester
-- Working as container security engineer
+- Working as cloud security engineer
 - OSCP 
 - former competitive programmer
 - founder of UofTCTF
