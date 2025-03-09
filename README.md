@@ -1,6 +1,6 @@
 - Wannabe Pentester
 - Working as cloud security engineer
-- OSCP 
+- OSCP / ARTE
 - former competitive programmer
 - founder of UofTCTF
 - studying Cloud Security 
@@ -10,7 +10,3 @@
 <img src="https://templates.images.credential.net/1644595125124808271808325719972.png" width="25%" height="25%" />
 
 ![](https://www.hackthebox.eu/badge/image/402227)
-
-
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -1000; position: fixed; top: 0; left: 0; height: 100vh; object-fit: contain; background-size: contain; width: 100vw; opacity: 0.5; background: url('https://github.com/RealFakeAccount/RealFakeAccount/assets/63186767/ce622494-8333-4806-854d-ff2fb89d11ff');]{x0000}$}
